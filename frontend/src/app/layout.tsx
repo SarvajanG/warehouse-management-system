@@ -2,6 +2,7 @@
 
 import { ThemeProvider, CssBaseline } from '@mui/material';
 import { createTheme } from '@mui/material/styles';
+import './globals.css';
 
 const theme = createTheme({
   palette: {
